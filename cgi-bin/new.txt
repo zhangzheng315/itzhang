@@ -1,0 +1,7 @@
+CREATE TABLE news(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    title TEXT,
+    name TEXT,
+    content TEXT,
+    content_date TEXT
+    );
